@@ -22,6 +22,6 @@ TP 8 : - Gestion des threads
 
 TP 9 : - Gestion des entrees / sorties ( input / output )
 
-TP 10 : - Inteface graphique avec Swing et SGBD
+TP 10 : - Inteface graphique avec Swing et utilise SGBD
 
 TP 11 : - partie JEE (JSP /JSTL)
